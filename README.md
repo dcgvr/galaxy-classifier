@@ -1,5 +1,6 @@
 # galaxy-classifier
-Project on classifying SDSS galaxy images using random forest classification
+This is my final project on classifying SDSS galaxy images using random forest classification, which
+was part of my Computational Physics class (PHYS 305, The University of Arizona) in Spring 2022.
 
 The Galaxy Zoo project brought citizen scientists to help with classifying millions of
 galaxy images from the Sloan Digital Sky Survey. I used a small subset (about 23,000) of galaxy
