@@ -10,8 +10,8 @@ shape of the galaxy using contours.
 
 From the images, I extracted different geometric and photometric features such as eccentricity, 
 form factor (area per perimeter squared), and light intensity profiles (galaxy_features_extraction.py). 
-I then built a random forest classifier and ran hyperparameter tuning using thescikit-learn package 
-(parameter_tuning.py).I tested the random forest classifier on categorizing galaxy images into ten groups 
+I then built a random forest classifier and ran hyperparameter tuning using the scikit-learn package 
+(parameter_tuning.py). I tested the random forest classifier on categorizing galaxy images into ten groups 
 (galaxy_analysis.py). Finally, I analyzed the predictive performance and the important features on each 
 classification layer (other Python files).
 
