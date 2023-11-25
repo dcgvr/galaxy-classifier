@@ -17,3 +17,8 @@ classification layer (other Python files).
 
 I also attach PDFs of my project report and presentation that discusses the background knowledge of this 
 project, the analysis I performed, and the outcomes of the project.
+
+<img src="image_processing.png" width="600"/>
+<img src="feature_importance.png" width="600"/>
+<img src="confusion_matrix.png" width="600"/>
+<img src="eccentricity.png" width="600"/>
