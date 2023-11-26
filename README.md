@@ -1,4 +1,4 @@
-# galaxy-classifier
+# Galaxy Classification with Random Forest
 This is my final project on classifying SDSS galaxy images using random forest classification, which
 was part of my Computational Physics class (PHYS 305, The University of Arizona) in Spring 2022.
 
